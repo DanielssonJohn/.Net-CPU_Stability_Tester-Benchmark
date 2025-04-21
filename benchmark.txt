@@ -1,0 +1,16 @@
+
+4/21/2025 7:08:20 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:35.3189408
+4/21/2025 7:09:58 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:28.9620718
+4/21/2025 7:10:52 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:28.3518974
+4/21/2025 7:11:38 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:29.2967903
+4/21/2025 7:13:23 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:34.7664700
+4/21/2025 7:14:34 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:35.3397812
+4/21/2025 7:15:32 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:29.2200551
+4/21/2025 7:16:15 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:28.9635011
+4/21/2025 7:16:57 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:28.9417644
+4/21/2025 7:28:08 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:32.0417491
+4/21/2025 7:29:49 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:39.7461654
+4/21/2025 7:30:41 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:31.2302852
+4/21/2025 7:31:28 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:32.5044249
+4/21/2025 7:41:53 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:42.5221779
+4/21/2025 7:43:16 PM CPU: AMD Ryzen 7 3700X 8-Core Processor              3600 8/16 result: 00:00:40.6328630
